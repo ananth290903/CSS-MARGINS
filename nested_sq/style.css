@@ -1,0 +1,23 @@
+
+
+.b1
+{
+    width:300px;
+    height:300px;
+    border:solid 5px black;
+    background-color:red;
+    position:absolute;
+
+}
+
+
+.b2
+{
+    width:60%;
+    height:60%;
+    border:solid 5px white;
+    background-color:darkblue;
+    margin:20% 30% 20% 20%;
+
+}
+
